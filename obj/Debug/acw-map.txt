@@ -1,0 +1,8 @@
+AndroidLab4.MainActivity, AndroidLab4;md5ce9c4b0eea524e3456de710146191873.MainActivity
+AndroidLab4.MainActivity, AndroidLab4, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5ce9c4b0eea524e3456de710146191873.MainActivity
+AndroidLab4.MainActivity;md5ce9c4b0eea524e3456de710146191873.MainActivity
+androidlab4.MainActivity;md5ce9c4b0eea524e3456de710146191873.MainActivity
+AndroidLab4.MainHorizontal, AndroidLab4;md5ce9c4b0eea524e3456de710146191873.MainHorizontal
+AndroidLab4.MainHorizontal, AndroidLab4, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5ce9c4b0eea524e3456de710146191873.MainHorizontal
+AndroidLab4.MainHorizontal;md5ce9c4b0eea524e3456de710146191873.MainHorizontal
+androidlab4.MainHorizontal;md5ce9c4b0eea524e3456de710146191873.MainHorizontal
